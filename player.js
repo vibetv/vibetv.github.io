@@ -21,10 +21,10 @@ function playM3u8(url, license){
                     shakaConfiguration: {
                     preferredAudioLanguage: 'en-US',
                     drm: {
-                    servers: {
-                    'com.widevine.alpha': license
-                             }
-                         },
+                    clearKeys: {
+                        '9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30'
+                    }
+                },
                     streaming: {
                       rebufferingGoal: 15
                     }
