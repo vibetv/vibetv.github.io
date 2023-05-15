@@ -22,7 +22,7 @@ function playM3u8(url, license){
                     preferredAudioLanguage: 'en-US',
                     drm: {
                     servers: {
-                    'com.widevine.alpha': 'https://cubmu.testapivi.workers.dev/',
+                    'com.widevine.alpha': license
                              }
                          },
                     streaming: {
