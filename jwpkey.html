@@ -45,29 +45,28 @@
         var playerInstance = jwplayer("player");
 
         playerInstance.setup({
-                    playlist: [{
-                        "image": atob(getIMG),
-                        "sources": [{
-                            "default": false,
-                            "type": "dash",
-                            "file": atob(get),
-                            "drm": {
-                                "clearkey": {
-                                    "keyId": atob(key),
-                                    "key": atob(key2)
-                                }
-                            },
-                            "label": "0"
-                        }]
-                    }],
-                    width: "100%",
-                    height: "100%",
-                    aspectratio: "16:9",
-                    autostart: false,
-                    cast: {},
-                        //sharing: {}
-                    }),
+            playlist: [{
+                "image": atob(getIMG),
+                "sources": [{
+                    "default": false,
+                    "type": "dash",
+                    "file": atob(get),
+                    "drm": {
+                        "clearkey": {
+                            "keyId": atob(key),
+                            "key": atob(key2)
+                        }
+                    },
+                    "label": "0"
+                }]
+            }],
+            width: "100%",
+            height: "100%",
+            aspectratio: "16:9",
+            autostart: false,
+            cast: {},
+            //sharing: {}
+        });
     </script>
 </body>
-
 </html>
