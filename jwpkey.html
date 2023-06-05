@@ -47,6 +47,7 @@
         playerInstance.setup({
             playlist: [{
                 "image": atob(getIMG),
+                "logo": atob(getLOGO),
                 "sources": [{
                     "default": false,
                     "type": "dash",
@@ -60,6 +61,8 @@
                     "label": "0"
                 }]
             }],
+            hide: false,
+            position: bottom-left,
             width: "100%",
             height: "100%",
             aspectratio: "16:9",
