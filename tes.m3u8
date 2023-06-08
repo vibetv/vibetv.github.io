@@ -1,8 +1,5 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/NLqLSjSk/20230518-215316.png" group-title="NASIONAL",MNCTV HD
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="polsatsport" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/39/41/b7394170-d6cc-38c3-715e-bd47a4641790/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/1200x630wa.png" group-title="SPORTS",Canal 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium540/index.m3u8
