@@ -6,7 +6,7 @@ function playM3u8(url, license) {
         autoPlay: 'true',
         poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo0KRPL3kZbYUdJkkOyt128VM5wp6u8_v5zLFKXapCzX7rSU3A2HO-ZCJQ7khQOdNhG35XNBI6H7G80-uWIOAGV-HcR_OORdvrJUK7iYOyiIMcQOgP0E1MX-zYlwfrZZY7hQ5U-YtGyYDcqutEsPBNZg1cJP8jLpHmsasjW54CKTzzE2_99iwKSQyYzQ/s1600/paseotvlive.png',
         position: 'bottom-left',
-        watermark: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-3Heq6Azi6tckkVyqpIRbZda3jjfAZPrdKzboN6IaMmsDtjw8Kc8e5ufN4Lt_lk1mZnjWlIq9O8bHjgt6ujbIxY3DasJaxayhJjSLQn7Bqza2guR9atrXv9V1K4l3ohfeFJ4rbM9_u5TtySHUHCRIzm4TJr633nmrkViRpBAMdUv9pYMecmWBWoMd/s1600/PASEOTVSTREAM.BLOGSPOT.COM.png",
+        watermark: " ",
         width: '100%',
         height: '100%',
         fullscreenEnabled: 'true',
