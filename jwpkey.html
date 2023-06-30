@@ -4,7 +4,7 @@
 <head>
     <meta name="robots" content="noindex, nofollow" />
     <meta name="referrer" content="no-referrer" />
-    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://paseotv1.blogspot.com;"/>
+    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://paseotv1.blogspot.com;" />
     <style type="text/css">
         body {
             margin: 0;
@@ -51,6 +51,21 @@
             }
         }
     </script>
+
+    <script type="text/javascript">
+        var BLOCKED_URL = ' ';
+        var FORWARDING_URL = 'https://paseotv1.blogspot.com/';
+        if (document.referrer == BLOCKED_URL) {
+            location.href = FORWARDING_URL;
+        }
+    </script>
+    <script language="JavaScript">
+        var b = 'https://streamingku-2.space/';
+        if (document.referrer.indexOf(b) != -1) {
+            location.href = 'https://www.google.com/';
+        }
+    </script>
+
 </head>
 
 <body onload="periksaDomain();">
