@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="referrer" content="no-referrer" />
+  <script>
+    // Fungsi untuk memeriksa domain saat halaman dimuat
+    function periksaDomain() {
+      var url = window.location.href; // Mendapatkan URL halaman
+      var domain = "www.w3schools.com"; // Domain yang diizinkan
+
+      // Memeriksa apakah URL mengandung domain yang diizinkan
+      if (url.indexOf(domain) === -1) {
+        window.location.href = "https://www.google.com"; // Mengarahkan pengguna ke URL yang berbeda jika domain tidak valid
+      } else {
+        var iframe = document.getElementById("my-iframe"); // Mendapatkan elemen iframe
+        iframe.src = "https://vibetv.github.io/player.html#https://playasport.envivo.cloud/live/3402093b80204a09.m3u8?txSecret=837ed0460f5e445a5657a9513f8b4df3&txTime=64BD0ED1"; // Mengatur URL konten iframe
+      }
+    }
+  </script>
+</head>
+<body onload="periksaDomain();">
+
+<div style="position: relative; padding-top: 56.25%;">
+  <iframe id="my-iframe" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+</body>
+</html>
