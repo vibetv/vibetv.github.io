@@ -44,9 +44,8 @@ if(isiPad){
 document.getElementById('player').innerHTML='<video controls="controls" autoplay="autoplay" width="100%" height="100%"><source src="'+id+'" type="application/x-mpegURL" /></video>'; }
 </script>
 
-    <script type="text/javascript" src="https://unpkg.com/dplayer@1.27.1/dist/DPlayer.min.js"></script>
-<!--<script type="text/javascript" src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/hls.js/0.14.17/hls.min.js"></script>-->
-<!--<script type="text/javascript" src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/dplayer/1.26.0/DPlayer.min.js"></script>-->
+<script type="text/javascript" src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/hls.js/0.14.17/hls.min.js"></script>
+<script type="text/javascript" src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/dplayer/1.26.0/DPlayer.min.js"></script>
     <script>
     var dp=new DPlayer({container: document.getElementById('player'),live: true,autoplay: true,theme:"#FADFA3",loop:false,screenshot:true,hotkey:true, preload:"metadata", mutex:true,
     video: {url: ""+id+"","name":" ",type: 'hls',referrerPolicy:"no-referrer"}
