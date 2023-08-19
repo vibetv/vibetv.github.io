@@ -193,7 +193,7 @@
     <link href="https://vjs.zencdn.net/8.5.2/video-js.css" rel="stylesheet">
     <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
     <script src="https://vjs.zencdn.net/8.5.2/video.min.js"></script>
-    <script src="vjs-hls.min.js"></script>
+    <script src="https://vibetv.github.io/vjs-hls.min.js"></script>
     <script src="https://unpkg.com/videojs-contrib-dash@5.1.1/dist/videojs-dash.cjs.js"></script>
     <script src="https://unpkg.com/videojs-contrib-hls.js@3.2.0/dist/videojs-contrib-hlsjs.min.js"></script>
 
