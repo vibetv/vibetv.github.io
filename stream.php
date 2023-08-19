@@ -1,7 +1,6 @@
 <html>
 
 <head>
-<meta content='no-referrer' name='referrer'/>
 
     <script type="text/javascript">
         var BLOCKED_URL = ' ';
