@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>视频播放</title>
+    <link href="https://vjs.zencdn.net/8.5.2/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/8.5.2/video.min.js"></script>
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+
+
+    <style>
+        body,
+        html {
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        .video-js .vjs-tech {
+            object-fit: cover;
+        }
+
+        .container {
+            width: 100vw;
+            height: 100%;
+        }
+
+        #myVideo {
+            height: 100%;
+            width: 100vw;
+
+        }
+
+        .vjs-live-display,
+        button.vjs-picture-in-picture-control {
+            display: none;
+        }
+
+        .video-js .vjs-control-bar {
+            background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, .8) 100%);
+
+        }
+
+        .audiostyle {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 10;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .audiostyle-box {
+            cursor: pointer;
+            width: 180px;
+            height: 50px;
+            background-color: #d02d54;
+            margin-top: -200px;
+            display: flex;
+            border-radius: 6px;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .audiostyle-box img {
+            width: 23px;
+            margin-right: 5px;
+        }
+
+        .audiostyle-box p {
+            color: #fff;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <video id="myVideo" class="video-js vjs-default-skin vjs-big-play-centered" controls autoplay preload="auto" data-setup='{}' poster="">
+            <source id="source" type="application/x-mpegURL">
+            </source>
+        </video>
+
+
+    </div>
+</body>
+
+</html>
+<script>
+    var myVideo = videojs('myVideo', {
+        bigPlayButton: true,
+        textTrackDisplay: false,
+        posterImage: true,
+        errorDisplay: false,
+    })
+
+    myVideo.play()
+
+    function toggleMute() {
+        var isMuted = myVideo.muted();
+        myVideo.muted(!isMuted); // 切换静音状态
+        if (!isMuted) {
+            myVideo.volume(1); // 设置音量为最大值
+        }
+        updateMuteButton();
+    }
+
+    function updateMuteButton() {
+        var muteButton = document.getElementById('muteButton');
+        var isMuted = myVideo.muted();
+        //console.log('muteButton:'+muteButton)
+
+        if (muteButton) {
+            //console.log('isMuted:'+isMuted)
+            muteButton.style.display = isMuted ? 'flex' : 'none';
+        }
+    }
+
+    // 初始化时更新按钮状态
+    //updateMuteButton();
+
+    // 监听音量变化事件
+    myVideo.on('volumechange', function() {
+        updateMuteButton();
+    });
+</script>
