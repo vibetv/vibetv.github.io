@@ -1,0 +1,54 @@
+{
+  "football": [
+    {
+      "time": "2024-12-02T12:00:00",
+      "teams": "Team A vs Team B",
+      "competition": "Liga 1",
+      "stream": "https://example.com/football-live-stream.m3u8",
+      "isLive": false
+    },
+    {
+      "time": "2024-12-04T21:00:00",
+      "teams": "Team C vs Team D",
+      "competition": "Premier League",
+      "stream": "https://example.com/football-live-stream.m3u8",
+      "isLive": false
+    }
+  ],
+  "motogp": [
+    {
+      "time": "2024-12-01T14:00:00",
+      "teams": "MotoGP Race 1",
+      "competition": "MotoGP Championship",
+      "stream": "https://example.com/motogp-live-stream.m3u8",
+      "isLive": false
+    }
+  ],
+  "f1": [
+    {
+      "time": "2024-12-01T16:00:00",
+      "teams": "F1 Race - Team X vs Team Y",
+      "competition": "Formula 1",
+      "stream": "https://example.com/f1-live-stream.m3u8",
+      "isLive": false
+    }
+  ],
+  "badminton": [
+    {
+      "time": "2024-12-01T10:00:00",
+      "teams": "Player A vs Player B",
+      "competition": "Badminton Open",
+      "stream": "https://example.com/badminton-live-stream.m3u8",
+      "isLive": false
+    }
+  ],
+  "basketball": [
+    {
+      "time": "2024-12-01T20:00:00",
+      "teams": "Team 1 vs Team 2",
+      "competition": "NBA",
+      "stream": "https://example.com/basketball-live-stream.m3u8",
+      "isLive": false
+    }
+  ]
+}
