@@ -119,10 +119,38 @@
   ],
   "badminton": [
     {
-      "time": "2024-12-01T10:00:00",
-      "teams": "Player A vs Player B",
-      "competition": "Badminton Open",
-      "stream": "https://example.com/badminton-live-stream.m3u8",
+      "time": "2024-12-03T09:30:00",
+      "teams": "COURT 1",
+      "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "isLive": false
+    },
+    {
+      "time": "2024-12-03T09:30:00",
+      "teams": "COURT 2",
+      "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "isLive": false
+    },
+    {
+      "time": "2024-12-03T09:30:00",
+      "teams": "COURT 3",
+      "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "isLive": false
+    },
+    {
+      "time": "2024-12-03T09:30:00",
+      "teams": "COURT 4",
+      "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "isLive": false
+    },
+    {
+      "time": "2024-12-03T09:30:00",
+      "teams": "COURT 5",
+      "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
       "isLive": false
     }
   ],
