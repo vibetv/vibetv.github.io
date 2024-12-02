@@ -81,13 +81,41 @@
     }
   ],
   "f1": [
-    {
-      "time": "2024-12-01T16:00:00",
-      "teams": "F1 Race - Team X vs Team Y",
-      "competition": "Formula 1",
-      "stream": "https://example.com/f1-live-stream.m3u8",
-      "isLive": false
-    }
+      {
+    "time": "2024-12-06T16:30:00",
+    "teams": "Latihan Bebas 1",
+    "competition": "Formula 1 - Grand Prix Abu Dhabi",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-06T20:00:00",
+    "teams": "Latihan Bebas 2",
+    "competition": "Formula 1 - Grand Prix Abu Dhabi",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-07T17:30:00",
+    "teams": "Latihan Bebas 3",
+    "competition": "Formula 1 - Grand Prix Abu Dhabi",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-07T21:00:00",
+    "teams": "Kualifikasi",
+    "competition": "Formula 1 - Grand Prix Abu Dhabi",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-08T20:00:00",
+    "teams": "Grand Prix",
+    "competition": "Formula 1 - Grand Prix Abu Dhabi",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+    "isLive": false
+  }
   ],
   "badminton": [
     {
