@@ -122,45 +122,66 @@
       "time": "2024-12-03T09:30:00",
       "teams": "COURT 1",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
-      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_29120.m3u8",
       "isLive": false
     },
     {
       "time": "2024-12-03T09:30:00",
       "teams": "COURT 2",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
-      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_30380.m3u8",
       "isLive": false
     },
     {
       "time": "2024-12-03T09:30:00",
       "teams": "COURT 3",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
-      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27410.m3u8",
       "isLive": false
     },
     {
       "time": "2024-12-03T09:30:00",
       "teams": "COURT 4",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
-      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_29920.m3u8",
       "isLive": false
     },
     {
       "time": "2024-12-03T09:30:00",
       "teams": "COURT 5",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
-      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
+      "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27580.m3u8",
       "isLive": false
     }
   ],
   "basketball": [
-    {
-      "time": "2024-12-01T20:00:00",
-      "teams": "Team 1 vs Team 2",
-      "competition": "NBA",
-      "stream": "https://example.com/basketball-live-stream.m3u8",
-      "isLive": false
-    }
+      {
+    "time": "2024-12-03T07:30:00",
+    "teams": "Atlanta Hawks vs New Orleans Pelicans",
+    "competition": "NBA",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_23890.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-03T07:30:00",
+    "teams": "Boston Celtics vs Miami Heat",
+    "competition": "NBA",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_23170.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-03T08:00:00",
+    "teams": "Chicago Bulls vs Brooklyn Nets",
+    "competition": "NBA",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_8790.m3u8",
+    "isLive": false
+  },
+  {
+    "time": "2024-12-03T08:00:00",
+    "teams": "Minnesota Timberwolves vs Los Angeles Lakers",
+    "competition": "NBA",
+    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_33820.m3u8",
+    "isLive": false
+  }
   ]
 }
