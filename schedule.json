@@ -1,66 +1,10 @@
 {
   "football": [
       {
-    "time": "2024-12-02T21:00:00",
+    "time": "2024-12-05T17:00:00",
     "teams": "Persepolis (Iran) vs Al Shorta (Iraq)",
     "competition": "AFC Champions League",
     "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_9430.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-02T23:00:00",
-    "teams": "Al Ahli SC (Saudi Arabia) vs Esteghlal FC (Iran)",
-    "competition": "AFC Champions League",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28130.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-02T23:00:00",
-    "teams": "Al Rayyan (Qatar) vs Al Nassr (Saudi Arabia)",
-    "competition": "AFC Champions League",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28260.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-03T01:00:00",
-    "teams": "Al-Sadd (Qatar)",
-    "competition": "AFC Champions League",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_28750.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-02T15:30:00",
-    "teams": "PSBs Biak Numfor vs Malut United",
-    "competition": "Liga 1",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_38620.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-02T15:30:00",
-    "teams": "PSM Makassar vs Borneo",
-    "competition": "Liga 1",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18670.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-02T19:00:00",
-    "teams": "Madura United vs Persebaya",
-    "competition": "Liga 1",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_22040.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-03T01:00:00",
-    "teams": "FC Copenhagen vs Nordsjaelland",
-    "competition": "Superliga",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_24850.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-03T02:45:00",
-    "teams": "AS Roma vs Atalanta",
-    "competition": "Serie A",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27300.m3u8",
     "isLive": false
   },
   {
@@ -81,36 +25,8 @@
     }
   ],
   "f1": [
-      {
-    "time": "2024-12-06T16:30:00",
-    "teams": "Latihan Bebas 1",
-    "competition": "Formula 1 - Grand Prix Abu Dhabi",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
-    "isLive": false
-  },
   {
-    "time": "2024-12-06T20:00:00",
-    "teams": "Latihan Bebas 2",
-    "competition": "Formula 1 - Grand Prix Abu Dhabi",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-07T17:30:00",
-    "teams": "Latihan Bebas 3",
-    "competition": "Formula 1 - Grand Prix Abu Dhabi",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-07T21:00:00",
-    "teams": "Kualifikasi",
-    "competition": "Formula 1 - Grand Prix Abu Dhabi",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-08T20:00:00",
+    "time": "2024-12-05T17:00:00",
     "teams": "Grand Prix",
     "competition": "Formula 1 - Grand Prix Abu Dhabi",
     "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_36060.m3u8",
@@ -119,35 +35,35 @@
   ],
   "badminton": [
     {
-      "time": "2024-12-03T09:30:00",
+    "time": "2024-12-05T17:00:00",
       "teams": "COURT 1",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
       "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_29120.m3u8",
       "isLive": false
     },
     {
-      "time": "2024-12-03T09:30:00",
+    "time": "2024-12-05T17:00:00",
       "teams": "COURT 2",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
       "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_30380.m3u8",
       "isLive": false
     },
     {
-      "time": "2024-12-03T09:30:00",
+    "time": "2024-12-05T17:00:00",
       "teams": "COURT 3",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
       "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27410.m3u8",
       "isLive": false
     },
     {
-      "time": "2024-12-03T09:30:00",
+    "time": "2024-12-05T17:00:00",
       "teams": "COURT 4",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
       "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_29920.m3u8",
       "isLive": false
     },
     {
-      "time": "2024-12-03T09:30:00",
+    "time": "2024-12-05T17:00:00",
       "teams": "COURT 5",
       "competition": "Badminton - YONEX-SUNRISE Guwahati Masters 2024",
       "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27580.m3u8",
@@ -155,29 +71,8 @@
     }
   ],
   "basketball": [
-      {
-    "time": "2024-12-03T07:30:00",
-    "teams": "Atlanta Hawks vs New Orleans Pelicans",
-    "competition": "NBA",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_23890.m3u8",
-    "isLive": false
-  },
   {
-    "time": "2024-12-03T07:30:00",
-    "teams": "Boston Celtics vs Miami Heat",
-    "competition": "NBA",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_23170.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-03T08:00:00",
-    "teams": "Chicago Bulls vs Brooklyn Nets",
-    "competition": "NBA",
-    "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_8790.m3u8",
-    "isLive": false
-  },
-  {
-    "time": "2024-12-03T08:00:00",
+    "time": "2024-12-05T17:00:00",
     "teams": "Minnesota Timberwolves vs Los Angeles Lakers",
     "competition": "NBA",
     "stream": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_33820.m3u8",
