@@ -1,0 +1,34 @@
+[
+    {
+        "competitions": "Liga 1 Indonesia",
+        "team1": "Persija Jakarta",
+        "team2": "Persebaya Surabaya",
+        "date": "2024-12-10T19:00:00",
+        "image": "https://via.placeholder.com/300x180.png?text=Persija+vs+Persebaya",
+        "video_url": "https://path/to/video1.mp4"
+    },
+    {
+        "competitions": "Liga 1 Indonesia",
+        "team1": "Arema FC",
+        "team2": "PSS Sleman",
+        "date": "2024-12-11T15:30:00",
+        "image": "https://via.placeholder.com/300x180.png?text=Arema+vs+PSS",
+        "video_url": "https://path/to/video2.mp4"
+    },
+    {
+        "competitions": "Liga 2 Indonesia",
+        "team1": "Bali United",
+        "team2": "Persib Bandung",
+        "date": "2024-12-12T18:45:00",
+        "image": "https://via.placeholder.com/300x180.png?text=Bali+vs+Persib",
+        "video_url": "https://path/to/video3.mp4"
+    },
+    {
+        "competitions": "Liga Champions",
+        "team1": "Barcelona",
+        "team2": "Manchester City",
+        "date": "2024-12-14T21:00:00",
+        "image": "https://via.placeholder.com/300x180.png?text=Barcelona+vs+Man+City",
+        "video_url": "https://path/to/video4.mp4"
+    }
+]
