@@ -106,6 +106,7 @@
   {
     "competitions": "F1",
     "team1": "Abu Dhabi Grand Prix Practice 1",
+    "team2": "Abu Dhabi Grand Prix Practice 1",
     "date": "2024-12-07T16:30:00",
     "image": "https://www.thesportsdb.com/images/media/event/thumb/p9wawp1708596817.jpg/small",
     "video_url": "https://lebo.huminbird.cn/live/ballbar_22500.m3u8"
@@ -113,6 +114,7 @@
   {
     "competitions": "F1",
     "team1": "Abu Dhabi Grand Prix Practice 2",
+    "team2": "Abu Dhabi Grand Prix Practice 2",
     "date": "2024-12-07T20:00:00",
     "image": "https://www.thesportsdb.com/images/media/event/thumb/u9821d1708596817.jpg/small",
     "video_url": "https://lebo.huminbird.cn/live/ballbar_16150.m3u8"
