@@ -12,7 +12,7 @@
         "team1": "Arema FC",
         "team2": "PSS Sleman",
         "date": "2024-12-11T15:30:00",
-        "image": "https://via.placeholder.com/300x180.png?text=Arema+vs+PSS",
+        "image": "https://www.thesportsdb.com/images/media/event/thumb/yyb75l1718955092.jpg/small",
         "video_url": "https://path/to/video2.mp4"
     },
     {
@@ -20,7 +20,7 @@
         "team1": "Bali United",
         "team2": "Persib Bandung",
         "date": "2024-12-12T18:45:00",
-        "image": "https://via.placeholder.com/300x180.png?text=Bali+vs+Persib",
+        "image": "https://www.thesportsdb.com/images/media/event/thumb/xtveyq1689062626.jpg/small",
         "video_url": "https://path/to/video3.mp4"
     },
     {
@@ -28,7 +28,7 @@
         "team1": "Barcelona",
         "team2": "Manchester City",
         "date": "2024-12-14T21:00:00",
-        "image": "https://via.placeholder.com/300x180.png?text=Barcelona+vs+Man+City",
+        "image": "https://www.thesportsdb.com/images/media/event/thumb/sl9ir31720175859.jpg/small",
         "video_url": "https://path/to/video4.mp4"
     }
 ]
