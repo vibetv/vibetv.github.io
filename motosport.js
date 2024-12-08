@@ -2,13 +2,8 @@ let player;
 
         // Schedule data with categories
         const scheduleData = {
-            MotoGP: [
-                { time: '10:00 AM', title: 'MotoGP Qualifying', videoId: '21750' },
-                { time: '02:30 PM', title: 'MotoGP Race', videoId: '25601' }
-            ],
             Formula1: [
-                { time: '12:00 PM', title: 'Formula 1 Grand Prix', videoId: '35600' },
-                { time: '04:00 PM', title: 'Formula 1 Qualifying', videoId: '35601' }
+                { time: '20:00 WIB', title: 'Formula 1 Grand Prix Abu Dhabi', videoId: '27470' },
             ]
         };
         
